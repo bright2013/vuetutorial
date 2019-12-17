@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44f7fb06-ced2-492d-8e7f-c6c27155e014" name="Default Changelist" comment="new vue">
+      <change afterPath="$PROJECT_DIR$/.idea/day1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter.html" beforeDir="false" afterPath="$PROJECT_DIR$/starter.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1V5by5K5gusOlMC0lMzZpzh5dDe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/seabrightcodes/tempfrontend" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44f7fb06-ced2-492d-8e7f-c6c27155e014" name="Default Changelist" comment="" />
+      <created>1576546154668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576546154668</updated>
+      <workItem from="1576546155972" duration="1353000" />
+    </task>
+    <task id="LOCAL-00001" summary="new vue">
+      <created>1576547288807</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576547288807</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new vue" />
+    <option name="LAST_COMMIT_MESSAGE" value="new vue" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="709" y="222" key="CommitChangelistDialog2" timestamp="1576547293815">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="709" y="222" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1576547293815" />
+    <state x="1021" y="627" width="273" height="219" key="Github.ShareDialog" timestamp="1576547076616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1021" y="627" width="273" height="219" key="Github.ShareDialog/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1576547076616" />
+    <state x="1016" y="441" key="Github.UntrackedFilesDialog" timestamp="1576547082681">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1016" y="441" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1576547082681" />
+    <state x="738" y="470" key="Vcs.Push.Dialog.v2" timestamp="1576547300301">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="738" y="470" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1576547300301" />
+  </component>
+</project>

@@ -8,14 +8,21 @@
 <body>
 <div id="app">
     {{ message }}
+    <button v-on:click="changeMessage">改变消息</button>
 </div>
 <script>
     var app = new Vue({
         el: '#app',
         data: {
             message: '你好 Vue!'
+        },
+        methods: {
+            changeMessage: function () {
+                this.message = '你好 同学!'
+            }
         }
     })
+
 </script>
 </body>
 </html>
